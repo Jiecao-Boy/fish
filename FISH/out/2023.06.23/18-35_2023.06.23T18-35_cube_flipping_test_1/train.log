@@ -1,0 +1,4 @@
+{'global_frame': 0, 'offset_0_train': tensor([0.0028], device='cuda:0')}
+{'global_frame': 0, 'offset_4_train': tensor([-0.0013], device='cuda:0')}
+{'global_frame': 0, 'offset_8_train': tensor([-0.0026], device='cuda:0')}
+{'global_frame': 0, 'offset_12_train': tensor([0.0014], device='cuda:0')}
